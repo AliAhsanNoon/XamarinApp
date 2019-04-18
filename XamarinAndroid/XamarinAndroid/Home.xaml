@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:XamarinAndroid"
+             x:Class="XamarinAndroid.Home">
+
+    <TabbedPage.ToolbarItems>
+        <ToolbarItem Text="+" x:Name="addNew" Clicked="AddNew_Clicked"></ToolbarItem>
+    </TabbedPage.ToolbarItems>
+    <local:History Title="History"></local:History>
+    <local:Map Title="Map"></local:Map>
+    <local:Profile Title="Profile"></local:Profile>
+    
+</TabbedPage>

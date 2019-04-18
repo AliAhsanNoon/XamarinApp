@@ -1,0 +1,17 @@
+F:\CodeRepo\XamarinAndroid\XamarinAndroid\XamarinAndroid\bin\Debug\netstandard2.0\XamarinAndroid.deps.json
+F:\CodeRepo\XamarinAndroid\XamarinAndroid\XamarinAndroid\bin\Debug\netstandard2.0\XamarinAndroid.dll
+F:\CodeRepo\XamarinAndroid\XamarinAndroid\XamarinAndroid\bin\Debug\netstandard2.0\XamarinAndroid.pdb
+F:\CodeRepo\XamarinAndroid\XamarinAndroid\XamarinAndroid\obj\Debug\netstandard2.0\XamarinAndroid.csprojAssemblyReference.cache
+F:\CodeRepo\XamarinAndroid\XamarinAndroid\XamarinAndroid\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\CodeRepo\XamarinAndroid\XamarinAndroid\XamarinAndroid\obj\Debug\netstandard2.0\History.xaml.g.cs
+F:\CodeRepo\XamarinAndroid\XamarinAndroid\XamarinAndroid\obj\Debug\netstandard2.0\Home.xaml.g.cs
+F:\CodeRepo\XamarinAndroid\XamarinAndroid\XamarinAndroid\obj\Debug\netstandard2.0\Login.xaml.g.cs
+F:\CodeRepo\XamarinAndroid\XamarinAndroid\XamarinAndroid\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\CodeRepo\XamarinAndroid\XamarinAndroid\XamarinAndroid\obj\Debug\netstandard2.0\Map.xaml.g.cs
+F:\CodeRepo\XamarinAndroid\XamarinAndroid\XamarinAndroid\obj\Debug\netstandard2.0\Profile.xaml.g.cs
+F:\CodeRepo\XamarinAndroid\XamarinAndroid\XamarinAndroid\obj\Debug\netstandard2.0\XamarinAndroid.csproj.CoreCompileInputs.cache
+F:\CodeRepo\XamarinAndroid\XamarinAndroid\XamarinAndroid\obj\Debug\netstandard2.0\XamarinAndroid.AssemblyInfoInputs.cache
+F:\CodeRepo\XamarinAndroid\XamarinAndroid\XamarinAndroid\obj\Debug\netstandard2.0\XamarinAndroid.AssemblyInfo.cs
+F:\CodeRepo\XamarinAndroid\XamarinAndroid\XamarinAndroid\obj\Debug\netstandard2.0\XamarinAndroid.dll
+F:\CodeRepo\XamarinAndroid\XamarinAndroid\XamarinAndroid\obj\Debug\netstandard2.0\XamarinAndroid.pdb
+F:\CodeRepo\XamarinAndroid\XamarinAndroid\XamarinAndroid\obj\Debug\netstandard2.0\Feedback.xaml.g.cs

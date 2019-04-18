@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:XamarinAndroid"
+             x:Class="XamarinAndroid.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Entry Placeholder="Email" Margin="10" x:Name="userEmail"/>
+        <Entry Placeholder="Password" Margin="10" IsPassword="True" x:Name="userPassword"/>
+
+        <Button x:Name="LoginBtn" TextColor="White" Text="Login" BackgroundColor="DodgerBlue" Clicked="LoginBtn_Clicked" Margin="10"></Button>
+    </StackLayout>
+
+</ContentPage>
